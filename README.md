@@ -19,7 +19,6 @@
 | [CinemaRoomRESTService-Java](https://github.com/csd81/CinemaRoomRESTService-Java)                |  |
 | [CoffeeMachine-JavaScript](https://github.com/csd81/CoffeeMachine-JavaScript)                    |  |
 | [Contacts-Java](https://github.com/csd81/Contacts-Java)                                          |  |
-| [Contacts-Kotlin](https://github.com/csd81/Contacts-Kotlin)                                      |  |
 | [ConvoyShippingCompany](https://github.com/csd81/ConvoyShippingCompany)                          |  |
 | [CornerShopCalculator](https://github.com/csd81/CornerShopCalculator)                            |  |
 | [CrosswordScrabble](https://github.com/csd81/CrosswordScrabble)                                  |  |
