@@ -87,7 +87,6 @@
 | [RegexEngine-Python](https://github.com/csd81/RegexEngine-Python)                                |  |
 | [ReminderApplication](https://github.com/csd81/ReminderApplication)                              |  |
 | [Remo](https://github.com/csd81/Remo)                                                            |  |
-| [RockPaperScissors-Java](https://github.com/csd81/RockPaperScissors-Java)                    |  |
 | [RockPaperScissors-Python](https://github.com/csd81/RockPaperScissors-Python)                |  |
 | [SalaryPrediction](https://github.com/csd81/SalaryPrediction)                                    |  |
 | [SharpShooter](https://github.com/csd81/SharpShooter)                                            |  |
