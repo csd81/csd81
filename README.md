@@ -3,6 +3,7 @@
 Here is a list of my projects on Hyperskill.org
 
 [CoffeeMachine-Scala](https://github.com/csd81/CoffeeMachine-Scala)  
+[LinearEquationsSolver-Java](https://github.com/csd81/LinearEquationsSolver-Java)  
 
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
