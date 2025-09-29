@@ -36,7 +36,6 @@
 | [Enigma](https://github.com/csd81/Enigma)                                                        |  |
 | [FileJanitor](https://github.com/csd81/FileJanitor)                                              |  |
 | [FileManager](https://github.com/csd81/FileManager)                                              |  |
-| [FileServer-Kotlin](https://github.com/csd81/FileServer-Kotlin)                                  |  |
 | [FitnessTrackerAPI](https://github.com/csd81/FitnessTrackerAPI)                                  |  |
 | [Flashcards-Frontend](https://github.com/csd81/Flashcards-Frontend)                              |  |
 | [Flashcards-Java](https://github.com/csd81/Flashcards-Java)                                      |  |
