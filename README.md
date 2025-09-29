@@ -35,7 +35,7 @@ Here is a list of my projects on Hyperskill.org
 | [Code-sharingPlatform](https://github.com/csd81/Code-sharingPlatform)                            |        |
 | [CoffeeMachine-JavaScript](https://github.com/csd81/CoffeeMachine-JavaScript)                    |        |
 | [CoffeeMachine-Kotlin](https://github.com/csd81/CoffeeMachine-Kotlin)                            |   ✅     |
-| [CoffeeMachine-Python](https://github.com/csd81/CoffeeMachine-Python)                            |        |
+| [CoffeeMachine-Python](https://github.com/csd81/CoffeeMachine-Python)                            |   ✅     |
 | [CoffeeMachineSimulator-Java](https://github.com/csd81/CoffeeMachineSimulator-Java)              |        |
 | [ColorGuessGame](https://github.com/csd81/ColorGuessGame)                                        |        |
 | [ConnectFour](https://github.com/csd81/ConnectFour)                                              |    ✅    |
