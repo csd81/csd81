@@ -176,7 +176,7 @@ Here is a list of my projects on Hyperskill.org
 | [TrafficLightSimulator-Java](https://github.com/csd81/TrafficLightSimulator-Java)                |  |
 | [TransactionAggregator](https://github.com/csd81/TransactionAggregator)                          |  |
 | [TrueorFalse](https://github.com/csd81/TrueorFalse)                                              |  |
-| [UnitConverter](https://github.com/csd81/UnitConverter)                                          |  |
+| [UnitConverter](https://github.com/csd81/UnitConverter)                                          | + |
 | [UniversityAdmissionProcedure-Python](https://github.com/csd81/UniversityAdmissionProcedure-Python)|  |
 | [URLShortener](https://github.com/csd81/URLShortener)                                            |  |
 | [VirtualPiano](https://github.com/csd81/VirtualPiano)                                            |  |
