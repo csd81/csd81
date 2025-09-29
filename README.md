@@ -90,7 +90,6 @@
 | [SimpleCurrencyConverter](https://github.com/csd81/SimpleCurrencyConverter)                      |  |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |  |
 | [SiteforMarathon](https://github.com/csd81/SiteforMarathon)                                      |  |
-| [SmartCalculator-Java](https://github.com/csd81/SmartCalculator-Java)                            |  |
 | [SmartCalendar](https://github.com/csd81/SmartCalendar)                                          |  |
 | [SortingTool-Python](https://github.com/csd81/SortingTool-Python)                                |  |
 | [SpinTheBottle](https://github.com/csd81/SpinTheBottle)                                          |  |
