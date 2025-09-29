@@ -2,13 +2,14 @@
 
 Here is a list of my projects on Hyperskill.org
 
-* [FileTypeAnalyzer-Java](https://github.com/csd81/FileTypeAnalyzer-Java)
-* [NumericMatrixProcessor-Java](https://github.com/csd81/NumericMatrixProcessor-Java)
-* [CoffeeMachine-Scala](https://github.com/csd81/CoffeeMachine-Scala)  
-* [LinearEquationsSolver-Java](https://github.com/csd81/LinearEquationsSolver-Java)  
+
 
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
+| [FileTypeAnalyzer-Java](https://github.com/csd81/FileTypeAnalyzer-Java)|✅|
+| [NumericMatrixProcessor-Java](https://github.com/csd81/NumericMatrixProcessor-Java)|✅|
+| [CoffeeMachine-Scala](https://github.com/csd81/CoffeeMachine-Scala)  |✅|
+| [LinearEquationsSolver-Java](https://github.com/csd81/LinearEquationsSolver-Java)  |✅|
 | [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)          |  |
 | [Algorithms-IMDB](https://github.com/csd81/Algorithms-IMDB)                                      |✅|
 | [AmazingNumbers](https://github.com/csd81/AmazingNumbers)                                        |  |
@@ -93,8 +94,8 @@ Here is a list of my projects on Hyperskill.org
 | [HyperMetro](https://github.com/csd81/HyperMetro)                                                |  |
 | [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |✅|
 | [InventoryAndPOSSystem](https://github.com/csd81/InventoryAndPOSSystem)                          |  |
-| [JSONDatabase-Kotlin](https://github.com/csd81/JSONDatabase-Kotlin)                              |  |
-| [JSONDatabase-Java](https://github.com/csd81/JSONDatabase-Java)                                  |  |
+| [JSON-Database-Kotlin](https://github.com/csd81/JSON-Database-Kotlin)                              |  |
+| [JSON-Database-Java](https://github.com/csd81/JSON-Database-Java)                                  |+  |
 | [JSON-XML-Converter](https://github.com/csd81/JSON-XML-Converter)                                  | +|
 | [K-MeansClusteringfromScratch](https://github.com/csd81/K-MeansClusteringfromScratch)            |  |
 | [LastPencil-Java](https://github.com/csd81/LastPencil-Java)                                      |  |
