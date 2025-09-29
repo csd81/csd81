@@ -144,7 +144,7 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleChatBot-Java](https://github.com/csd81/SimpleChatBot-Java)                                |  |
 | [SimpleConverter](https://github.com/csd81/SimpleConverter)                                      |  |
 | [SimpleCurrencyConverter](https://github.com/csd81/SimpleCurrencyConverter)                      |  |
-| [SimpleSearchEngine-Java](https://github.com/csd81/SimpleSearchEngine-Java)                      |  |
+| [SimpleSearchEngine-Java](https://github.com/csd81/SimpleSearchEngine-Java)                      |+  |
 | [SimpleSearchEngine-Kotlin](https://github.com/csd81/SimpleSearchEngine-Kotlin)                  |  |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |  |
 | [SimpleTicTacToe-Java](https://github.com/csd81/SimpleTicTacToe-Java)                        |✅|
