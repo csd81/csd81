@@ -37,7 +37,7 @@ Here is a list of my projects on Hyperskill.org
 | [CoffeeMachine-Kotlin](https://github.com/csd81/CoffeeMachine-Kotlin)                            |   ✅     |
 | [CoffeeMachine-Python](https://github.com/csd81/CoffeeMachine-Python)                            |   ✅     |
 | [CoffeeMachineSimulator-Java](https://github.com/csd81/CoffeeMachineSimulator-Java)              |    ✅    |
-| [ColorGuessGame](https://github.com/csd81/ColorGuessGame)                                        |        |
+| [ColorGuessGame](https://github.com/csd81/ColorGuessGame)                                        |     ✅   |
 | [ConnectFour](https://github.com/csd81/ConnectFour)                                              |    ✅    |
 | [ConsoleBot-CPP](https://github.com/csd81/ConsoleBot-CPP)                                        |    ✅    |
 | [Contacts-Java](https://github.com/csd81/Contacts-Java)                                          |        |
