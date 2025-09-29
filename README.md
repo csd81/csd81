@@ -39,7 +39,7 @@ Here is a list of my projects on Hyperskill.org
 | [CoffeeMachineSimulator-Java](https://github.com/csd81/CoffeeMachineSimulator-Java)              |        |
 | [ColorGuessGame](https://github.com/csd81/ColorGuessGame)                                        |        |
 | [ConnectFour](https://github.com/csd81/ConnectFour)                                              |    ✅    |
-| [ConsoleBot-C++](https://github.com/csd81/ConsoleBot-C++)                                        |        |
+| [ConsoleBot-CPP](https://github.com/csd81/ConsoleBot-CPP)                                        |        |
 | [Contacts-Java](https://github.com/csd81/Contacts-Java)                                          |        |
 | [Contacts-Kotlin](https://github.com/csd81/Contacts-Kotlin)                                      |        |
 | [ConvoyShippingCompany](https://github.com/csd81/ConvoyShippingCompany)                          |        |
@@ -124,7 +124,7 @@ Here is a list of my projects on Hyperskill.org
 | [RegexEngine-Python](https://github.com/csd81/RegexEngine-Python)                                |        |
 | [ReminderApplication](https://github.com/csd81/ReminderApplication)                              |        |
 | [Remo](https://github.com/csd81/Remo)                                                            |        |
-| [Rock-Paper-Scissors-C++](https://github.com/csd81/Rock-Paper-Scissors-C++)                      |        |
+| [Rock-Paper-Scissors-CPP](https://github.com/csd81/Rock-Paper-Scissors-CPP)                      |        |
 | [Rock-Paper-Scissors-Java](https://github.com/csd81/Rock-Paper-Scissors-Java)                    |        |
 | [Rock-Paper-Scissors-Python](https://github.com/csd81/Rock-Paper-Scissors-Python)                |        |
 | [SalaryPrediction](https://github.com/csd81/SalaryPrediction)                                    |        |
@@ -180,7 +180,7 @@ Here is a list of my projects on Hyperskill.org
 | [WhoWantstoBeaMillionaire](https://github.com/csd81/WhoWantstoBeaMillionaire)                    |        |
 | [WordsVirtuoso](https://github.com/csd81/WordsVirtuoso)                                          |        |
 | [X-masTree](https://github.com/csd81/X-masTree)                                                  |        |
-| [Zookeeper-C++](https://github.com/csd81/Zookeeper-C++)                                          |        |
+| [Zookeeper-CPP](https://github.com/csd81/Zookeeper-CPP)                                          |        |
 | [Zookeeper-JavaScript](https://github.com/csd81/Zookeeper-JavaScript)                            |     ✅   |
 | [Zookeeper-Kotlin](https://github.com/csd81/Zookeeper-Kotlin)                                    |     ✅   |
 | [Zookeeper-Java](https://github.com/csd81/Zookeeper-Java)                                        |     ✅   |
