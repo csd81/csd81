@@ -1,4 +1,3 @@
- 
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
 | [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)          |  |
@@ -17,7 +16,6 @@
 | [CarSharing](https://github.com/csd81/CarSharing)                                                |  |
 | [CaseConverter](https://github.com/csd81/CaseConverter)                                          |  |
 | [ChalkboardPrinter](https://github.com/csd81/ChalkboardPrinter)                                  |  |
-| [Chatbot-Python](https://github.com/csd81/Chatbot-Python)                                        |  |
 | [ChuckNorrisCipherEncoder-Java](https://github.com/csd81/ChuckNorrisCipherEncoder-Java)          |  |
 | [ChuckNorrisCipherEncoder-Kotlin](https://github.com/csd81/ChuckNorrisCipherEncoder-Kotlin)      |  |
 | [CinemaRoomManager-Kotlin](https://github.com/csd81/CinemaRoomManager-Kotlin)                    |  |
