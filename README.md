@@ -110,7 +110,7 @@ Here is a list of my projects on Hyperskill.org
 | [MazeRunner-Java](https://github.com/csd81/MazeRunner-Java)                                      |✅|
 | [MealPlanner-Java](https://github.com/csd81/MealPlanner-Java)                                    |  |
 | [MemorizationTool](https://github.com/csd81/MemorizationTool)                                    |  |
-| [Minesweeper-Java](https://github.com/csd81/Minesweeper-Java)                                    |  |
+| [Minesweeper-Java](https://github.com/csd81/Minesweeper-Java)                                    | + |
 | [Minesweeper-Kotlin](https://github.com/csd81/Minesweeper-Kotlin)                                |  |
 | [MusicAdvisor](https://github.com/csd81/MusicAdvisor)                                            | ✅|
 | [MyFirstProject-JavaScript](https://github.com/csd81/MyFirstProject-JavaScript)                  |  |
