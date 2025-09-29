@@ -119,7 +119,7 @@ Here is a list of my projects on Hyperskill.org
 | [PasswordHacker-Java](https://github.com/csd81/PasswordHacker-Java)                              |  |
 | [PasswordHacker-Python](https://github.com/csd81/PasswordHacker-Python)                          |  |
 | [Pawns-OnlyChess](https://github.com/csd81/Pawns-OnlyChess)                                      |  |
-| [PhoneBook-Java](https://github.com/csd81/PhoneBook-Java)                                        |  |
+| [PhoneBook-Java](https://github.com/csd81/PhoneBook-Java)                                        |+ |
 | [Portfolio](https://github.com/csd81/Portfolio)                                                  |  |
 | [QRCodeService](https://github.com/csd81/QRCodeService)                                          |  |
 | [ReadabilityScore-Java](https://github.com/csd81/ReadabilityScore-Java)                          |  |
