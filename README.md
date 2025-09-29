@@ -118,7 +118,7 @@ Here is a list of my projects on Hyperskill.org
 | [NumberBaseConverter-Kotlin](https://github.com/csd81/NumberBaseConverter-Kotlin)                |  |
 | [NumericMatrixProcessor-Kotlin](https://github.com/csd81/NumericMatrixProcessor-Kotlin)          |  |
 | [OnlineChat](https://github.com/csd81/OnlineChat)                                                |✅|
-| [ParkingLot](https://github.com/csd81/ParkingLot)                                                |  |
+| [ParkingLot](https://github.com/csd81/ParkingLot)                                                | +|
 | [PasswordHacker-Java](https://github.com/csd81/PasswordHacker-Java)                              |  |
 | [PasswordHacker-Python](https://github.com/csd81/PasswordHacker-Python)                          |  |
 | [Pawns-OnlyChess](https://github.com/csd81/Pawns-OnlyChess)                                      |  |
