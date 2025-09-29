@@ -67,7 +67,7 @@ Here is a list of my projects on Hyperskill.org
 | [FileJanitor](https://github.com/csd81/FileJanitor)                                              |        |
 | [FileManager](https://github.com/csd81/FileManager)                                              |        |
 | [FileServer-Kotlin](https://github.com/csd81/FileServer-Kotlin)                                  |        |
-| [FileServer](https://github.com/csd81/FileServer)                                                |        |
+| [FileServer](https://github.com/csd81/FileServer)                                                |    +    |
 | [FitnessTrackerAPI](https://github.com/csd81/FitnessTrackerAPI)                                  |        |
 | [Flashcards-Frontend](https://github.com/csd81/Flashcards-Frontend)                              |        |
 | [Flashcards-Java](https://github.com/csd81/Flashcards-Java)                                      |        |
