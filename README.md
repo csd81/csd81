@@ -124,9 +124,9 @@ Here is a list of my projects on Hyperskill.org
 | [RegexEngine-Python](https://github.com/csd81/RegexEngine-Python)                                |        |
 | [ReminderApplication](https://github.com/csd81/ReminderApplication)                              |        |
 | [Remo](https://github.com/csd81/Remo)                                                            |        |
-| [Rock-Paper-Scissors-CPP](https://github.com/csd81/Rock-Paper-Scissors-CPP)                      |        |
-| [Rock-Paper-Scissors-Java](https://github.com/csd81/Rock-Paper-Scissors-Java)                    |        |
-| [Rock-Paper-Scissors-Python](https://github.com/csd81/Rock-Paper-Scissors-Python)                |        |
+| [RockPaperScissors-CPP](https://github.com/csd81/RockPaperScissors-CPP)                      |        |
+| [RockPaperScissors-Java](https://github.com/csd81/RockPaperScissors-Java)                    |        |
+| [RockPaperScissors-Python](https://github.com/csd81/RockPaperScissors-Python)                |        |
 | [SalaryPrediction](https://github.com/csd81/SalaryPrediction)                                    |        |
 | [SharpShooter](https://github.com/csd81/SharpShooter)                                            |        |
 | [SimpleBankingSystem-Java](https://github.com/csd81/SimpleBankingSystem-Java)                    |        |
