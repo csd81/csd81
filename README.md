@@ -40,7 +40,6 @@
 | [Flashcards-Frontend](https://github.com/csd81/Flashcards-Frontend)                              |  |
 | [Flashcards-Java](https://github.com/csd81/Flashcards-Java)                                      |  |
 | [Flashcards-Python](https://github.com/csd81/Flashcards-Python)                                  |  |
-| [GameofLife-Java](https://github.com/csd81/GameofLife-Java)                                      |  |
 | [GeneratingRandomness](https://github.com/csd81/GeneratingRandomness)                            |  |
 | [GitInternals](https://github.com/csd81/GitInternals)                                            |  |
 | [Hangman-JavaScript](https://github.com/csd81/Hangman-JavaScript)                                |  |
