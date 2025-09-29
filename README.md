@@ -102,7 +102,6 @@
 | [Text-BasedBrowser](https://github.com/csd81/Text-BasedBrowser)                                  |  |
 | [TextEditor](https://github.com/csd81/TextEditor)                                                |  |
 | [TextProcessor](https://github.com/csd81/TextProcessor)                                          |  |
-| [TicTacToeAI-Java](https://github.com/csd81/TicTacToeAI-Java)                              |  |
 | [TicTacToeAI-Python](https://github.com/csd81/TicTacToeAI-Python)                          |  |
 | [ToDoList-JavaScript](https://github.com/csd81/ToDoList-JavaScript)                            |  |
 | [ToDoList-Python](https://github.com/csd81/ToDoList-Python)                                    |  |
