@@ -3,6 +3,7 @@
 Here is a list of my projects on Hyperskill.org
 
 * LoanCalculator-Go
+* UniversityAdmissionProcedure-Go
 
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
