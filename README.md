@@ -15,7 +15,6 @@
 | [CaseConverter](https://github.com/csd81/CaseConverter)                                          |  |
 | [ChalkboardPrinter](https://github.com/csd81/ChalkboardPrinter)                                  |  |
 | [ChuckNorrisCipherEncoder-Java](https://github.com/csd81/ChuckNorrisCipherEncoder-Java)          |  |
-| [ChuckNorrisCipherEncoder-Kotlin](https://github.com/csd81/ChuckNorrisCipherEncoder-Kotlin)      |  |
 | [CinemaRoomManager-Kotlin](https://github.com/csd81/CinemaRoomManager-Kotlin)                    |  |
 | [CinemaRoomManager](https://github.com/csd81/CinemaRoomManager)                                  |  |
 | [CinemaRoomRESTService-Java](https://github.com/csd81/CinemaRoomRESTService-Java)                |  |
