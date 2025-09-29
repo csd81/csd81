@@ -10,7 +10,6 @@
 | [Battleship-Kotlin](https://github.com/csd81/Battleship-Kotlin)                                  |   |
 | [Battleship-Java](https://github.com/csd81/Battleship-Java)                                      |  |
 | [BillSplitter](https://github.com/csd81/BillSplitter)                                            |  |
-| [Blockchain-Kotlin](https://github.com/csd81/Blockchain-Kotlin)                                  |  |
 | [BudgetManager](https://github.com/csd81/BudgetManager)                                          |  |
 | [BugBusters](https://github.com/csd81/BugBusters)                                                |  |
 | [CalculatorforInvestors](https://github.com/csd81/CalculatorforInvestors)                        |  |
