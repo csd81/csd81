@@ -1,7 +1,4 @@
-# My Projects
-Here is a list of my projects on Hyperskill.org
-* LoanCalculator-Go
-* UniversityAdmissionProcedure-Go
+ 
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
 | [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)          |  |
@@ -10,7 +7,7 @@ Here is a list of my projects on Hyperskill.org
 | [AntiFraudSystem](https://github.com/csd81/AntiFraudSystem)                                    |  |
 | [ArithmeticExamApplication](https://github.com/csd81/ArithmeticExamApplication)                  |  |
 | [ASCIIMirror](https://github.com/csd81/ASCIIMirror)                                              |  |
-| [Battleship-Kotlin](https://github.com/csd81/Battleship-Kotlin)                                  |  |
+| [Battleship-Kotlin](https://github.com/csd81/Battleship-Kotlin)                                  |   |
 | [Battleship-Java](https://github.com/csd81/Battleship-Java)                                      |  |
 | [BillSplitter](https://github.com/csd81/BillSplitter)                                            |  |
 | [Blockchain-Kotlin](https://github.com/csd81/Blockchain-Kotlin)                                  |  |
@@ -75,7 +72,6 @@ Here is a list of my projects on Hyperskill.org
 | [LastPencil-Python](https://github.com/csd81/LastPencil-Python)                                  |  |
 | [LearningProgressTracker-Java](https://github.com/csd81/LearningProgressTracker-Java)            |  |
 | [LearningProgressTracker-Python](https://github.com/csd81/LearningProgressTracker-Python)        |  |
-| [LoanCalculator](https://github.com/csd81/LoanCalculator)                                        |  |
 | [MagicForm](https://github.com/csd81/MagicForm)                                                  |  |
 | [MarkdownEditor](https://github.com/csd81/MarkdownEditor)                                        |  |
 | [MealPlanner-Java](https://github.com/csd81/MealPlanner-Java)                                    |  |
