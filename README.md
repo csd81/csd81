@@ -19,7 +19,7 @@ Here is a list of my projects on Hyperskill.org
 | [Battleship-Java](https://github.com/csd81/Battleship-Java)                                      |        |
 | [BillSplitter](https://github.com/csd81/BillSplitter)                                            |        |
 | [Blockchain-Kotlin](https://github.com/csd81/Blockchain-Kotlin)                                  |        |
-| [Blockchain-Java](https://github.com/csd81/Blockchain-Java)                                      |        |
+| [Blockchain-Java](https://github.com/csd81/Blockchain-Java)                                      |     +   |
 | [BudgetManager](https://github.com/csd81/BudgetManager)                                          |        |
 | [BugBusters](https://github.com/csd81/BugBusters)                                                |        |
 | [BullsandCows-Kotlin](https://github.com/csd81/BullsandCows-Kotlin)                              |    ✅    |
