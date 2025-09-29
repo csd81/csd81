@@ -93,7 +93,7 @@ Here is a list of my projects on Hyperskill.org
 | [InventoryAndPOSSystem](https://github.com/csd81/InventoryAndPOSSystem)                          |  |
 | [JSONDatabase-Kotlin](https://github.com/csd81/JSONDatabase-Kotlin)                              |  |
 | [JSONDatabase-Java](https://github.com/csd81/JSONDatabase-Java)                                  |  |
-| [JSON-XMLconverter](https://github.com/csd81/JSON-XMLconverter)                                  |  |
+| [JSON-XML-Converter](https://github.com/csd81/JSON-XML-Converter)                                  | +|
 | [K-MeansClusteringfromScratch](https://github.com/csd81/K-MeansClusteringfromScratch)            |  |
 | [LastPencil-Java](https://github.com/csd81/LastPencil-Java)                                      |  |
 | [LastPencil-Python](https://github.com/csd81/LastPencil-Python)                                  |  |
