@@ -4,13 +4,13 @@ Here is a list of my projects on Hyperskill.org
 
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
-| [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)            |   ✅    |
-| [Algorithms-IMDB](https://github.com/csd81/Algorithms-IMDB)                                      |   ✅    |
-| [AmazingNumbers](https://github.com/csd81/AmazingNumbers)                                        |   ✅    |
-| [AmazingPrices](https://github.com/csd81/AmazingPrices)                                          |   ✅    |
-| [Anti-FraudSystem](https://github.com/csd81/Anti-FraudSystem)                                    |   ✅    |
+| [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)          |      |
+| [Algorithms-IMDB](https://github.com/csd81/Algorithms-IMDB)                                      |        |
+| [AmazingNumbers](https://github.com/csd81/AmazingNumbers)                                        |        |
+| [AmazingPrices](https://github.com/csd81/AmazingPrices)                                          |        |
+| [AntiFraudSystem](https://github.com/csd81/AntiFraudSystem)                                    |        |
 | [ArithmeticExamApplication](https://github.com/csd81/ArithmeticExamApplication)                  |        |
-| [ASCIIMirror](https://github.com/csd81/ASCIIMirror)                                                |        |
+| [ASCIIMirror](https://github.com/csd81/ASCIIMirror)                                              |        |
 | [ASCIITextSignature](https://github.com/csd81/ASCIITextSignature)                                |        |
 | [Battleship-Kotlin](https://github.com/csd81/Battleship-Kotlin)                                  |        |
 | [Battleship-Java](https://github.com/csd81/Battleship-Java)                                      |        |
@@ -19,9 +19,9 @@ Here is a list of my projects on Hyperskill.org
 | [Blockchain-Java](https://github.com/csd81/Blockchain-Java)                                      |        |
 | [BudgetManager](https://github.com/csd81/BudgetManager)                                          |        |
 | [BugBusters](https://github.com/csd81/BugBusters)                                                |        |
-| [BullsandCows-Kotlin](https://github.com/csd81/BullsandCows-Kotlin)                              |        |
+| [BullsandCows-Kotlin](https://github.com/csd81/BullsandCows-Kotlin)                              |    ✅    |
 | [BullsandCows](https://github.com/csd81/BullsandCows)                                            |        |
-| [CalculatorforInvestors](https://github.com/csd81/CalculatorforInvestors)                      |        |
+| [CalculatorforInvestors](https://github.com/csd81/CalculatorforInvestors)                        |        |
 | [CarnivalGiftShop](https://github.com/csd81/CarnivalGiftShop)                                    |        |
 | [CarSharing](https://github.com/csd81/CarSharing)                                                |        |
 | [CaseConverter](https://github.com/csd81/CaseConverter)                                          |        |
@@ -34,11 +34,11 @@ Here is a list of my projects on Hyperskill.org
 | [CinemaRoomRESTService-Java](https://github.com/csd81/CinemaRoomRESTService-Java)                |        |
 | [Code-sharingPlatform](https://github.com/csd81/Code-sharingPlatform)                            |        |
 | [CoffeeMachine-JavaScript](https://github.com/csd81/CoffeeMachine-JavaScript)                    |        |
-| [CoffeeMachine-Kotlin](https://github.com/csd81/CoffeeMachine-Kotlin)                            |        |
+| [CoffeeMachine-Kotlin](https://github.com/csd81/CoffeeMachine-Kotlin)                            |   ✅     |
 | [CoffeeMachine-Python](https://github.com/csd81/CoffeeMachine-Python)                            |        |
 | [CoffeeMachineSimulator-Java](https://github.com/csd81/CoffeeMachineSimulator-Java)              |        |
 | [ColorGuessGame](https://github.com/csd81/ColorGuessGame)                                        |        |
-| [ConnectFour](https://github.com/csd81/ConnectFour)                                              |        |
+| [ConnectFour](https://github.com/csd81/ConnectFour)                                              |    ✅    |
 | [ConsoleBot-C++](https://github.com/csd81/ConsoleBot-C++)                                        |        |
 | [Contacts-Java](https://github.com/csd81/Contacts-Java)                                          |        |
 | [Contacts-Kotlin](https://github.com/csd81/Contacts-Kotlin)                                      |        |
@@ -57,8 +57,8 @@ Here is a list of my projects on Hyperskill.org
 | [Dominoes](https://github.com/csd81/Dominoes)                                                    |        |
 | [Duskers](https://github.com/csd81/Duskers)                                                      |        |
 | [EasyRiderBusCompany](https://github.com/csd81/EasyRiderBusCompany)                              |        |
-| [Encryption-Decryption-Java](https://github.com/csd81/Encryption-Decryption-Java)                |        |
-| [Encryption-Decryption-Kotlin](https://github.com/csd81/Encryption-Decryption-Kotlin)            |        |
+| [EncryptionDecryption-Java](https://github.com/csd81/EncryptionDecryption-Java)                  |        |
+| [EncryptionDecryption-Kotlin](https://github.com/csd81/Encryption-Decryption-Kotlin)              |     ✅   |
 | [Enigma](https://github.com/csd81/Enigma)                                                        |        |
 | [FileJanitor](https://github.com/csd81/FileJanitor)                                              |        |
 | [FileManager](https://github.com/csd81/FileManager)                                              |        |
@@ -76,7 +76,7 @@ Here is a list of my projects on Hyperskill.org
 | [Hangman-JavaScript](https://github.com/csd81/Hangman-JavaScript)                                |        |
 | [Hangman-Python](https://github.com/csd81/Hangman-Python)                                        |        |
 | [HonestCalculator-Java](https://github.com/csd81/HonestCalculator-Java)                          |        |
-| [HonestCalculator](https://github.com/csd81/HonestCalculator)                                    |        |
+| [HonestCalculator](https://github.com/csd81/Honest-Calculator)                                    |     ✅   |
 | [HospitalAppointmentBookingSystem](https://github.com/csd81/HospitalAppointmentBookingSystem)    |        |
 | [HouseClassification](https://github.com/csd81/HouseClassification)                              |        |
 | [HRDataAnalysis](https://github.com/csd81/HRDataAnalysis)                                        |        |
@@ -85,7 +85,7 @@ Here is a list of my projects on Hyperskill.org
 | [HyperCommander](https://github.com/csd81/HyperCommander)                                        |        |
 | [Hypergram](https://github.com/csd81/Hypergram)                                                  |        |
 | [HyperMetro](https://github.com/csd81/HyperMetro)                                                |        |
-| [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |        |
+| [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |     ✅   |
 | [InventoryandPOSSystem](https://github.com/csd81/InventoryandPOSSystem)                          |        |
 | [JSONDatabase-Kotlin](https://github.com/csd81/JSONDatabase-Kotlin)                              |        |
 | [JSONDatabase-Java](https://github.com/csd81/JSONDatabase-Java)                                  |        |
@@ -106,7 +106,7 @@ Here is a list of my projects on Hyperskill.org
 | [MusicAdvisor](https://github.com/csd81/MusicAdvisor)                                            |        |
 | [MyFirstProject-JavaScript](https://github.com/csd81/MyFirstProject-JavaScript)                  |        |
 | [MyFirstProject-Java](https://github.com/csd81/MyFirstProject-Java)                              |        |
-| [MyFirstProject-Kotlin](https://github.com/csd81/MyFirstProject-Kotlin)                          |        |
+| [MyFirstProject-Kotlin](https://github.com/csd81/MyFirstProject-Kotlin)                          |   ✅     |
 | [NumberBaseConverter-Java](https://github.com/csd81/NumberBaseConverter-Java)                    |        |
 | [NumberBaseConverter-Kotlin](https://github.com/csd81/NumberBaseConverter-Kotlin)                |        |
 | [NumericMatrixProcessor-Kotlin](https://github.com/csd81/NumericMatrixProcessor-Kotlin)          |        |
@@ -133,7 +133,7 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleBankingSystem-Python](https://github.com/csd81/SimpleBankingSystem-Python)                |        |
 | [SimpleCalculator](https://github.com/csd81/SimpleCalculator)                                    |        |
 | [SimpleChatBot-JavaScript](https://github.com/csd81/SimpleChatBot-JavaScript)                    |        |
-| [SimpleChatBot-Kotlin](https://github.com/csd81/SimpleChatBot-Kotlin)                            |        |
+| [SimpleChatBot-Kotlin](https://github.com/csd81/SimpleChatBotKotlin)                            |     ✅   |
 | [SimpleChatBot-Java](https://github.com/csd81/SimpleChatBot-Java)                                |        |
 | [SimpleConverter](https://github.com/csd81/SimpleConverter)                                      |        |
 | [SimpleCurrencyConverter](https://github.com/csd81/SimpleCurrencyConverter)                      |        |
@@ -141,7 +141,7 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleSearchEngine-Kotlin](https://github.com/csd81/SimpleSearchEngine-Kotlin)                  |        |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |        |
 | [SimpleTic-Tac-Toe-Java](https://github.com/csd81/SimpleTic-Tac-Toe-Java)                        |        |
-| [SimpleTic-Tac-Toe-Kotlin](https://github.com/csd81/SimpleTic-Tac-Toe-Kotlin)                    |        |
+| [SimpleTic-Tac-Toe-Kotlin](https://github.com/csd81/SimpleTic-Tac-Toe-Kotlin)                    |   ✅     |
 | [SimpleTic-Tac-Toe-Python](https://github.com/csd81/SimpleTic-Tac-Toe-Python)                    |        |
 | [SiteforMarathon](https://github.com/csd81/SiteforMarathon)                                      |        |
 | [SmartCalculator-Kotlin](https://github.com/csd81/SmartCalculator-Kotlin)                        |        |
@@ -182,6 +182,6 @@ Here is a list of my projects on Hyperskill.org
 | [X-masTree](https://github.com/csd81/X-masTree)                                                  |        |
 | [Zookeeper-C++](https://github.com/csd81/Zookeeper-C++)                                          |        |
 | [Zookeeper-JavaScript](https://github.com/csd81/Zookeeper-JavaScript)                            |        |
-| [Zookeeper-Kotlin](https://github.com/csd81/Zookeeper-Kotlin)                                    |        |
+| [Zookeeper-Kotlin](https://github.com/csd81/Zookeeper-Kotlin)                                    |     ✅   |
 | [Zookeeper-Java](https://github.com/csd81/Zookeeper-Java)                                        |        |
 | [Zookeeper-Python](https://github.com/csd81/Zookeeper-Python)                                    |        |
