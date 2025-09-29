@@ -92,7 +92,6 @@
 | [SimpleChatBot-Java](https://github.com/csd81/SimpleChatBot-Java)                                |  |
 | [SimpleConverter](https://github.com/csd81/SimpleConverter)                                      |  |
 | [SimpleCurrencyConverter](https://github.com/csd81/SimpleCurrencyConverter)                      |  |
-| [SimpleSearchEngine-Kotlin](https://github.com/csd81/SimpleSearchEngine-Kotlin)                  |  |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |  |
 | [SiteforMarathon](https://github.com/csd81/SiteforMarathon)                                      |  |
 | [SmartCalculator-Java](https://github.com/csd81/SmartCalculator-Java)                            |  |
