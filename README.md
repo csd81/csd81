@@ -71,7 +71,6 @@
 | [MyFirstProject-JavaScript](https://github.com/csd81/MyFirstProject-JavaScript)                  |  |
 | [MyFirstProject-Java](https://github.com/csd81/MyFirstProject-Java)                              |  |
 | [NumberBaseConverter-Java](https://github.com/csd81/NumberBaseConverter-Java)                    |  |
-| [NumberBaseConverter-Kotlin](https://github.com/csd81/NumberBaseConverter-Kotlin)                |  |
 | [PasswordHacker-Java](https://github.com/csd81/PasswordHacker-Java)                              |  |
 | [PasswordHacker-Python](https://github.com/csd81/PasswordHacker-Python)                          |  |
 | [Pawns-OnlyChess](https://github.com/csd81/Pawns-OnlyChess)                                      |  |
