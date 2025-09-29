@@ -114,7 +114,6 @@
 | [Tasklist](https://github.com/csd81/Tasklist)                                                    |  |
 | [TaskManagementSystem](https://github.com/csd81/TaskManagementSystem)                            |  |
 | [Tetris-Java](https://github.com/csd81/Tetris-Java)                                              |  |
-| [TextBasedAdventureGame](https://github.com/csd81/TextBasedAdventureGame)                        |  |
 | [Text-BasedBrowser](https://github.com/csd81/Text-BasedBrowser)                                  |  |
 | [TextEditor](https://github.com/csd81/TextEditor)                                                |  |
 | [TextProcessor](https://github.com/csd81/TextProcessor)                                          |  |
