@@ -58,7 +58,7 @@ Here is a list of my projects on Hyperskill.org
 | [Duskers](https://github.com/csd81/Duskers)                                                      |        |
 | [EasyRiderBusCompany](https://github.com/csd81/EasyRiderBusCompany)                              |        |
 | [EncryptionDecryption-Java](https://github.com/csd81/EncryptionDecryption-Java)                  |        |
-| [EncryptionDecryption-Kotlin](https://github.com/csd81/EncryptionDecryption-Kotlin)              |     ✅   |
+| [EncryptionDecryption-Kotlin](https://github.com/csd81/EncryptionDecryption-Kotlin)              |   ✅   |
 | [Enigma](https://github.com/csd81/Enigma)                                                        |        |
 | [FileJanitor](https://github.com/csd81/FileJanitor)                                              |        |
 | [FileManager](https://github.com/csd81/FileManager)                                              |        |
@@ -72,11 +72,11 @@ Here is a list of my projects on Hyperskill.org
 | [GameofLife-Java](https://github.com/csd81/GameofLife-Java)                                      |        |
 | [GeneratingRandomness](https://github.com/csd81/GeneratingRandomness)                            |        |
 | [GitInternals](https://github.com/csd81/GitInternals)                                            |        |
-| [GuessTheAnimal-Java](https://github.com/csd81/GuessTheAnimal-Java)                              |        |
+| [GuessTheAnimal-Java](https://github.com/csd81/GuessTheAnimal-Java)                              |   ✅   |
 | [Hangman-JavaScript](https://github.com/csd81/Hangman-JavaScript)                                |        |
 | [Hangman-Python](https://github.com/csd81/Hangman-Python)                                        |        |
 | [HonestCalculator-Java](https://github.com/csd81/HonestCalculator-Java)                          |        |
-| [HonestCalculator](https://github.com/csd81/Honest-Calculator)                                    |     ✅   |
+| [HonestCalculator](https://github.com/csd81/Honest-Calculator)                                   |   ✅   |
 | [HospitalAppointmentBookingSystem](https://github.com/csd81/HospitalAppointmentBookingSystem)    |        |
 | [HouseClassification](https://github.com/csd81/HouseClassification)                              |        |
 | [HRDataAnalysis](https://github.com/csd81/HRDataAnalysis)                                        |        |
@@ -85,7 +85,7 @@ Here is a list of my projects on Hyperskill.org
 | [HyperCommander](https://github.com/csd81/HyperCommander)                                        |        |
 | [Hypergram](https://github.com/csd81/Hypergram)                                                  |        |
 | [HyperMetro](https://github.com/csd81/HyperMetro)                                                |        |
-| [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |     ✅   |
+| [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |   ✅   |
 | [InventoryandPOSSystem](https://github.com/csd81/InventoryandPOSSystem)                          |        |
 | [JSONDatabase-Kotlin](https://github.com/csd81/JSONDatabase-Kotlin)                              |        |
 | [JSONDatabase-Java](https://github.com/csd81/JSONDatabase-Java)                                  |        |
