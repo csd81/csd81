@@ -51,14 +51,14 @@ Here is a list of my projects on Hyperskill.org
 | [DecisionTree-PenandPaper](https://github.com/csd81/DecisionTree-PenandPaper)                    |        |
 | [DesktopCalculator](https://github.com/csd81/DesktopCalculator)                                  |        |
 | [DesktopConnectFour](https://github.com/csd81/DesktopConnectFour)                                |        |
-| [DesktopTic-Tac-Toe](https://github.com/csd81/DesktopTic-Tac-Toe)                                |        |
+| [DesktopTicTacToe](https://github.com/csd81/DesktopTicTacToe)                                |        |
 | [DogGlossary](https://github.com/csd81/DogGlossary)                                              |        |
 | [Dolly](https://github.com/csd81/Dolly)                                                          |        |
 | [Dominoes](https://github.com/csd81/Dominoes)                                                    |        |
 | [Duskers](https://github.com/csd81/Duskers)                                                      |        |
 | [EasyRiderBusCompany](https://github.com/csd81/EasyRiderBusCompany)                              |        |
 | [EncryptionDecryption-Java](https://github.com/csd81/EncryptionDecryption-Java)                  |        |
-| [EncryptionDecryption-Kotlin](https://github.com/csd81/Encryption-Decryption-Kotlin)              |     ✅   |
+| [EncryptionDecryption-Kotlin](https://github.com/csd81/EncryptionDecryption-Kotlin)              |     ✅   |
 | [Enigma](https://github.com/csd81/Enigma)                                                        |        |
 | [FileJanitor](https://github.com/csd81/FileJanitor)                                              |        |
 | [FileManager](https://github.com/csd81/FileManager)                                              |        |
@@ -133,16 +133,16 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleBankingSystem-Python](https://github.com/csd81/SimpleBankingSystem-Python)                |        |
 | [SimpleCalculator](https://github.com/csd81/SimpleCalculator)                                    |        |
 | [SimpleChatBot-JavaScript](https://github.com/csd81/SimpleChatBot-JavaScript)                    |        |
-| [SimpleChatBot-Kotlin](https://github.com/csd81/SimpleChatBotKotlin)                            |     ✅   |
+| [SimpleChatBot-Kotlin](https://github.com/csd81/SimpleChatBot-Kotlin)                            |     ✅   |
 | [SimpleChatBot-Java](https://github.com/csd81/SimpleChatBot-Java)                                |        |
 | [SimpleConverter](https://github.com/csd81/SimpleConverter)                                      |        |
 | [SimpleCurrencyConverter](https://github.com/csd81/SimpleCurrencyConverter)                      |        |
 | [SimpleSearchEngine-Java](https://github.com/csd81/SimpleSearchEngine-Java)                      |        |
 | [SimpleSearchEngine-Kotlin](https://github.com/csd81/SimpleSearchEngine-Kotlin)                  |        |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |        |
-| [SimpleTic-Tac-Toe-Java](https://github.com/csd81/SimpleTic-Tac-Toe-Java)                        |        |
-| [SimpleTic-Tac-Toe-Kotlin](https://github.com/csd81/SimpleTic-Tac-Toe-Kotlin)                    |   ✅     |
-| [SimpleTic-Tac-Toe-Python](https://github.com/csd81/SimpleTic-Tac-Toe-Python)                    |        |
+| [SimpleTicTacToe-Java](https://github.com/csd81/SimpleTicTacToe-Java)                        |        |
+| [SimpleTicTacToe-Kotlin](https://github.com/csd81/SimpleTicTacToe-Kotlin)                    |   ✅     |
+| [SimpleTicTacToe-Python](https://github.com/csd81/SimpleTicTacToe-Python)                    |        |
 | [SiteforMarathon](https://github.com/csd81/SiteforMarathon)                                      |        |
 | [SmartCalculator-Kotlin](https://github.com/csd81/SmartCalculator-Kotlin)                        |        |
 | [SmartCalculator-Python](https://github.com/csd81/SmartCalculator-Python)                        |        |
@@ -162,10 +162,10 @@ Here is a list of my projects on Hyperskill.org
 | [Text-BasedBrowser](https://github.com/csd81/Text-BasedBrowser)                                  |        |
 | [TextEditor](https://github.com/csd81/TextEditor)                                                |        |
 | [TextProcessor](https://github.com/csd81/TextProcessor)                                          |        |
-| [Tic-Tac-Toe-AI-Java](https://github.com/csd81/Tic-Tac-Toe-AI-Java)                              |        |
-| [Tic-Tac-Toe-AI-Python](https://github.com/csd81/Tic-Tac-Toe-AI-Python)                          |        |
-| [To-DoList-JavaScript](https://github.com/csd81/To-DoList-JavaScript)                            |        |
-| [To-DoList-Python](https://github.com/csd81/To-DoList-Python)                                    |        |
+| [TicTacToeAI-Java](https://github.com/csd81/TicTacToeAI-Java)                              |        |
+| [TicTacToeAI-Python](https://github.com/csd81/TicTacToeAI-Python)                          |        |
+| [ToDoList-JavaScript](https://github.com/csd81/ToDoList-JavaScript)                            |        |
+| [ToDoList-Python](https://github.com/csd81/ToDoList-Python)                                    |        |
 | [TrafficLightSimulator-Java](https://github.com/csd81/TrafficLightSimulator-Java)                |        |
 | [TransactionAggregator](https://github.com/csd81/TransactionAggregator)                          |        |
 | [TrueorFalse](https://github.com/csd81/TrueorFalse)                                              |        |
