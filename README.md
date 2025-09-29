@@ -36,7 +36,6 @@
 | [DecisionTreePenAndPaper](https://github.com/csd81/DecisionTreePenAndPaper)                    |  |
 | [DesktopCalculator](https://github.com/csd81/DesktopCalculator)                                  |  |
 | [DesktopConnectFour](https://github.com/csd81/DesktopConnectFour)                                |  |
-| [DesktopTicTacToe](https://github.com/csd81/DesktopTicTacToe)                                |  |
 | [DogGlossary](https://github.com/csd81/DogGlossary)                                              |  |
 | [Dolly](https://github.com/csd81/Dolly)                                                          |  |
 | [Dominoes](https://github.com/csd81/Dominoes)                                                    |  |
