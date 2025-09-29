@@ -180,7 +180,7 @@ Here is a list of my projects on Hyperskill.org
 | [WhoWantstoBeaMillionaire](https://github.com/csd81/WhoWantstoBeaMillionaire)                    |        |
 | [WordsVirtuoso](https://github.com/csd81/WordsVirtuoso)                                          |        |
 | [X-masTree](https://github.com/csd81/X-masTree)                                                  |        |
-| [Zookeeper-CPP](https://github.com/csd81/Zookeeper-CPP)                                          |        |
+| [Zookeeper-CPP](https://github.com/csd81/Zookeeper-CPP)                                          |    ✅    |
 | [Zookeeper-JavaScript](https://github.com/csd81/Zookeeper-JavaScript)                            |     ✅   |
 | [Zookeeper-Kotlin](https://github.com/csd81/Zookeeper-Kotlin)                                    |     ✅   |
 | [Zookeeper-Java](https://github.com/csd81/Zookeeper-Java)                                        |     ✅   |
