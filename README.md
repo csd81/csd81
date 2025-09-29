@@ -72,7 +72,7 @@ Here is a list of my projects on Hyperskill.org
 | [GameofLife-Java](https://github.com/csd81/GameofLife-Java)                                      |        |
 | [GeneratingRandomness](https://github.com/csd81/GeneratingRandomness)                            |        |
 | [GitInternals](https://github.com/csd81/GitInternals)                                            |        |
-| [GuesstheAnimal-Java](https://github.com/csd81/GuesstheAnimal-Java)                              |        |
+| [GuessTheAnimal-Java](https://github.com/csd81/GuessTheAnimal-Java)                              |        |
 | [Hangman-JavaScript](https://github.com/csd81/Hangman-JavaScript)                                |        |
 | [Hangman-Python](https://github.com/csd81/Hangman-Python)                                        |        |
 | [HonestCalculator-Java](https://github.com/csd81/HonestCalculator-Java)                          |        |
