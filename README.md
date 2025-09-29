@@ -32,7 +32,7 @@ Here is a list of my projects on Hyperskill.org
 | [CinemaRoomManager-Kotlin](https://github.com/csd81/CinemaRoomManager-Kotlin)                    |        |
 | [CinemaRoomManager](https://github.com/csd81/CinemaRoomManager)                                  |        |
 | [CinemaRoomRESTService-Java](https://github.com/csd81/CinemaRoomRESTService-Java)                |        |
-| [CodeSharingPlatform](https://github.com/csd81/CodeSharingPlatform)                            |        |
+| [CodeSharingPlatform](https://github.com/csd81/CodeSharingPlatform)                            |    ✅    |
 | [CoffeeMachine-JavaScript](https://github.com/csd81/CoffeeMachine-JavaScript)                    |        |
 | [CoffeeMachine-Kotlin](https://github.com/csd81/CoffeeMachine-Kotlin)                            |   ✅     |
 | [CoffeeMachine-Python](https://github.com/csd81/CoffeeMachine-Python)                            |   ✅     |
