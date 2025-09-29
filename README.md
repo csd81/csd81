@@ -184,4 +184,4 @@ Here is a list of my projects on Hyperskill.org
 | [Zookeeper-JavaScript](https://github.com/csd81/Zookeeper-JavaScript)                            |     ✅   |
 | [Zookeeper-Kotlin](https://github.com/csd81/Zookeeper-Kotlin)                                    |     ✅   |
 | [Zookeeper-Java](https://github.com/csd81/Zookeeper-Java)                                        |     ✅   |
-| [Zookeeper-Python](https://github.com/csd81/Zookeeper-Python)                                    |        |
+| [Zookeeper-Python](https://github.com/csd81/Zookeeper-Python)                                    |      ✅  |
