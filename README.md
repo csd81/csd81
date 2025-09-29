@@ -144,7 +144,7 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleTicTacToe-Kotlin](https://github.com/csd81/SimpleTicTacToe-Kotlin)                    |   ✅     |
 | [SimpleTicTacToe-Python](https://github.com/csd81/SimpleTicTacToe-Python)                    |        |
 | [SiteforMarathon](https://github.com/csd81/SiteforMarathon)                                      |        |
-| [SmartCalculator-Kotlin](https://github.com/csd81/SmartCalculator-Kotlin)                        |        |
+| [SmartCalculator-Kotlin](https://github.com/csd81/SmartCalculator-Kotlin)                        |  ✅    |
 | [SmartCalculator-Python](https://github.com/csd81/SmartCalculator-Python)                        |        |
 | [SmartCalculator-Java](https://github.com/csd81/SmartCalculator-Java)                            |        |
 | [SmartCalendar](https://github.com/csd81/SmartCalendar)                                          |        |
