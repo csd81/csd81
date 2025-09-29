@@ -6,7 +6,6 @@
 | [AntiFraudSystem](https://github.com/csd81/AntiFraudSystem)                                    |  |
 | [ArithmeticExamApplication](https://github.com/csd81/ArithmeticExamApplication)                  |  |
 | [ASCIIMirror](https://github.com/csd81/ASCIIMirror)                                              |  |
-| [Battleship-Kotlin](https://github.com/csd81/Battleship-Kotlin)                                  |   |
 | [BillSplitter](https://github.com/csd81/BillSplitter)                                            |  |
 | [BudgetManager](https://github.com/csd81/BudgetManager)                                          |  |
 | [BugBusters](https://github.com/csd81/BugBusters)                                                |  |
