@@ -107,7 +107,6 @@
 | [SpinTheBottle](https://github.com/csd81/SpinTheBottle)                                          |  |
 | [SQLiteViewer](https://github.com/csd81/SQLiteViewer)                                            |  |
 | [StaticCodeAnalyzer](https://github.com/csd81/StaticCodeAnalyzer)                                |  |
-| [SteganographyAndCryptography](https://github.com/csd81/SteganographyAndCryptography)            |  |
 | [Tagger](https://github.com/csd81/Tagger)                                                        |  |
 | [Tasklist](https://github.com/csd81/Tasklist)                                                    |  |
 | [TaskManagementSystem](https://github.com/csd81/TaskManagementSystem)                            |  |
