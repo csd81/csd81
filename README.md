@@ -1,7 +1,7 @@
 # My Projects
 
 Here is a list of my projects on Hyperskill.org
-
+[NumericMatrixProcessor-Java](https://github.com/csd81/NumericMatrixProcessor-Java)
 [CoffeeMachine-Scala](https://github.com/csd81/CoffeeMachine-Scala)  
 [LinearEquationsSolver-Java](https://github.com/csd81/LinearEquationsSolver-Java)  
 
