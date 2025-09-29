@@ -102,7 +102,7 @@ Here is a list of my projects on Hyperskill.org
 | [LoanCalculator](https://github.com/csd81/LoanCalculator)                                        |        |
 | [MagicForm](https://github.com/csd81/MagicForm)                                                  |        |
 | [MarkdownEditor](https://github.com/csd81/MarkdownEditor)                                        |        |
-| [MazeRunner-Java](https://github.com/csd81/MazeRunner-Java)                                      |        |
+| [MazeRunner-Java](https://github.com/csd81/MazeRunner-Java)                                      |      +  |
 | [MealPlanner-Java](https://github.com/csd81/MealPlanner-Java)                                    |        |
 | [MemorizationTool](https://github.com/csd81/MemorizationTool)                                    |        |
 | [Minesweeper-Java](https://github.com/csd81/Minesweeper-Java)                                    |        |
