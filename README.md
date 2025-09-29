@@ -22,8 +22,8 @@ Here is a list of my projects on Hyperskill.org
 | [Blockchain-Java](https://github.com/csd81/Blockchain-Java)                                      |     +   |
 | [BudgetManager](https://github.com/csd81/BudgetManager)                                          |        |
 | [BugBusters](https://github.com/csd81/BugBusters)                                                |        |
-| [BullsandCows-Kotlin](https://github.com/csd81/BullsandCows-Kotlin)                              |    ✅    |
-| [BullsandCows](https://github.com/csd81/BullsandCows)                                            |        |
+| [BullsAndCows-Kotlin](https://github.com/csd81/BullsAndCows-Kotlin)                              |    ✅    |
+| [BullsAndCows](https://github.com/csd81/BullsAndCows)                                            |        |
 | [CalculatorforInvestors](https://github.com/csd81/CalculatorforInvestors)                        |        |
 | [CarnivalGiftShop](https://github.com/csd81/CarnivalGiftShop)                                    |        |
 | [CarSharing](https://github.com/csd81/CarSharing)                                                |        |
@@ -52,7 +52,7 @@ Here is a list of my projects on Hyperskill.org
 | [CurrencyConverter](https://github.com/csd81/CurrencyConverter)                                  |        |
 | [CustomerFeedbackService](https://github.com/csd81/CustomerFeedbackService)                      |        |
 | [DataAnalysisforHospitals](https://github.com/csd81/DataAnalysisforHospitals)                    |        |
-| [DecisionTree-PenandPaper](https://github.com/csd81/DecisionTree-PenandPaper)                    |        |
+| [DecisionTreePenAndPaper](https://github.com/csd81/DecisionTreePenAndPaper)                    |        |
 | [DesktopCalculator](https://github.com/csd81/DesktopCalculator)                                  |        |
 | [DesktopConnectFour](https://github.com/csd81/DesktopConnectFour)                                |        |
 | [DesktopTicTacToe](https://github.com/csd81/DesktopTicTacToe)                                |        |
@@ -90,7 +90,7 @@ Here is a list of my projects on Hyperskill.org
 | [Hypergram](https://github.com/csd81/Hypergram)                                                  |        |
 | [HyperMetro](https://github.com/csd81/HyperMetro)                                                |        |
 | [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |   ✅   |
-| [InventoryandPOSSystem](https://github.com/csd81/InventoryandPOSSystem)                          |        |
+| [InventoryAndPOSSystem](https://github.com/csd81/InventoryAndPOSSystem)                          |        |
 | [JSONDatabase-Kotlin](https://github.com/csd81/JSONDatabase-Kotlin)                              |        |
 | [JSONDatabase-Java](https://github.com/csd81/JSONDatabase-Java)                                  |        |
 | [JSON-XMLconverter](https://github.com/csd81/JSON-XMLconverter)                                  |        |
@@ -157,7 +157,7 @@ Here is a list of my projects on Hyperskill.org
 | [SpinTheBottle](https://github.com/csd81/SpinTheBottle)                                          |        |
 | [SQLiteViewer](https://github.com/csd81/SQLiteViewer)                                            |        |
 | [StaticCodeAnalyzer](https://github.com/csd81/StaticCodeAnalyzer)                                |        |
-| [SteganographyandCryptography](https://github.com/csd81/SteganographyandCryptography)            |        |
+| [SteganographyAndCryptography](https://github.com/csd81/SteganographyAndCryptography)            |        |
 | [Tagger](https://github.com/csd81/Tagger)                                                        |        |
 | [Tasklist](https://github.com/csd81/Tasklist)                                                    |        |
 | [TaskManagementSystem](https://github.com/csd81/TaskManagementSystem)                            |        |
