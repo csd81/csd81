@@ -17,7 +17,7 @@ Here is a list of my projects on Hyperskill.org
 | [AntiFraudSystem](https://github.com/csd81/AntiFraudSystem)                                    |  |
 | [ArithmeticExamApplication](https://github.com/csd81/ArithmeticExamApplication)                  |  |
 | [ASCIIMirror](https://github.com/csd81/ASCIIMirror)                                              |  |
-| [ASCIITextSignature](https://github.com/csd81/ASCIITextSignature)                                |  |
+| [ASCII-TextSignature](https://github.com/csd81/ASCII-TextSignature)                                |✅ |
 | [Battleship-Kotlin](https://github.com/csd81/Battleship-Kotlin)                                  |  |
 | [Battleship-Java](https://github.com/csd81/Battleship-Java)                                      |  |
 | [BillSplitter](https://github.com/csd81/BillSplitter)                                            |  |
@@ -95,8 +95,8 @@ Here is a list of my projects on Hyperskill.org
 | [IndigoCardGame](https://github.com/csd81/IndigoCardGame)                                        |✅|
 | [InventoryAndPOSSystem](https://github.com/csd81/InventoryAndPOSSystem)                          |  |
 | [JSON-Database-Kotlin](https://github.com/csd81/JSON-Database-Kotlin)                              |  |
-| [JSON-Database-Java](https://github.com/csd81/JSON-Database-Java)                                  |+  |
-| [JSON-XML-Converter](https://github.com/csd81/JSON-XML-Converter)                                  | +|
+| [JSON-Database-Java](https://github.com/csd81/JSON-Database-Java)                                  |✅  |
+| [JSON-XML-Converter](https://github.com/csd81/JSON-XML-Converter)                                  | ✅|
 | [K-MeansClusteringfromScratch](https://github.com/csd81/K-MeansClusteringfromScratch)            |  |
 | [LastPencil-Java](https://github.com/csd81/LastPencil-Java)                                      |  |
 | [LastPencil-Python](https://github.com/csd81/LastPencil-Python)                                  |  |
@@ -110,7 +110,7 @@ Here is a list of my projects on Hyperskill.org
 | [MemorizationTool](https://github.com/csd81/MemorizationTool)                                    |  |
 | [Minesweeper-Java](https://github.com/csd81/Minesweeper-Java)                                    |  |
 | [Minesweeper-Kotlin](https://github.com/csd81/Minesweeper-Kotlin)                                |  |
-| [MusicAdvisor](https://github.com/csd81/MusicAdvisor)                                            | +|
+| [MusicAdvisor](https://github.com/csd81/MusicAdvisor)                                            | ✅|
 | [MyFirstProject-JavaScript](https://github.com/csd81/MyFirstProject-JavaScript)                  |  |
 | [MyFirstProject-Java](https://github.com/csd81/MyFirstProject-Java)                              |  |
 | [MyFirstProject-Kotlin](https://github.com/csd81/MyFirstProject-Kotlin)                          |✅|
@@ -122,7 +122,7 @@ Here is a list of my projects on Hyperskill.org
 | [PasswordHacker-Java](https://github.com/csd81/PasswordHacker-Java)                              |  |
 | [PasswordHacker-Python](https://github.com/csd81/PasswordHacker-Python)                          |  |
 | [Pawns-OnlyChess](https://github.com/csd81/Pawns-OnlyChess)                                      |  |
-| [PhoneBook-Java](https://github.com/csd81/PhoneBook-Java)                                        |+ |
+| [PhoneBook-Java](https://github.com/csd81/PhoneBook-Java)                                        |✅ |
 | [Portfolio](https://github.com/csd81/Portfolio)                                                  |  |
 | [QRCodeService](https://github.com/csd81/QRCodeService)                                          |  |
 | [ReadabilityScore-Java](https://github.com/csd81/ReadabilityScore-Java)                          |  |
@@ -144,7 +144,7 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleChatBot-Java](https://github.com/csd81/SimpleChatBot-Java)                                |  |
 | [SimpleConverter](https://github.com/csd81/SimpleConverter)                                      |  |
 | [SimpleCurrencyConverter](https://github.com/csd81/SimpleCurrencyConverter)                      |  |
-| [SimpleSearchEngine-Java](https://github.com/csd81/SimpleSearchEngine-Java)                      |+  |
+| [SimpleSearchEngine-Java](https://github.com/csd81/SimpleSearchEngine-Java)                      |✅  |
 | [SimpleSearchEngine-Kotlin](https://github.com/csd81/SimpleSearchEngine-Kotlin)                  |  |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |  |
 | [SimpleTicTacToe-Java](https://github.com/csd81/SimpleTicTacToe-Java)                        |✅|
@@ -176,13 +176,13 @@ Here is a list of my projects on Hyperskill.org
 | [TrafficLightSimulator-Java](https://github.com/csd81/TrafficLightSimulator-Java)                |  |
 | [TransactionAggregator](https://github.com/csd81/TransactionAggregator)                          |  |
 | [TrueorFalse](https://github.com/csd81/TrueorFalse)                                              |  |
-| [UnitConverter](https://github.com/csd81/UnitConverter)                                          | + |
+| [UnitConverter](https://github.com/csd81/UnitConverter)                                          | ✅ |
 | [UniversityAdmissionProcedure-Python](https://github.com/csd81/UniversityAdmissionProcedure-Python)|  |
 | [URLShortener](https://github.com/csd81/URLShortener)                                            |  |
 | [VirtualPiano](https://github.com/csd81/VirtualPiano)                                            |  |
 | [Watermark](https://github.com/csd81/Watermark)                                                  |  |
 | [WebCalendar-Java](https://github.com/csd81/WebCalendar-Java)                                    |  |
-| [WebCrawler](https://github.com/csd81/WebCrawler)                                                |+|
+| [WebCrawler](https://github.com/csd81/WebCrawler)                                                |✅|
 | [WebQuizEngine-Java](https://github.com/csd81/WebQuizEngine-Java)                                |  |
 | [WhoWantstoBeaMillionaire](https://github.com/csd81/WhoWantstoBeaMillionaire)                    |  |
 | [WordsVirtuoso](https://github.com/csd81/WordsVirtuoso)                                          |  |
