@@ -41,7 +41,6 @@
 | [FitnessTrackerAPI](https://github.com/csd81/FitnessTrackerAPI)                                  |  |
 | [Flashcards-Frontend](https://github.com/csd81/Flashcards-Frontend)                              |  |
 | [Flashcards-Java](https://github.com/csd81/Flashcards-Java)                                      |  |
-| [Flashcards-Kotlin](https://github.com/csd81/Flashcards-Kotlin)                                  |  |
 | [Flashcards-Python](https://github.com/csd81/Flashcards-Python)                                  |  |
 | [GameofLife-Java](https://github.com/csd81/GameofLife-Java)                                      |  |
 | [GeneratingRandomness](https://github.com/csd81/GeneratingRandomness)                            |  |
