@@ -55,7 +55,6 @@
 | [Hypergram](https://github.com/csd81/Hypergram)                                                  |  |
 | [HyperMetro](https://github.com/csd81/HyperMetro)                                                |  |
 | [InventoryAndPOSSystem](https://github.com/csd81/InventoryAndPOSSystem)                          |  |
-| [JSON-Database-Kotlin](https://github.com/csd81/JSON-Database-Kotlin)                              |  |
 | [K-MeansClusteringfromScratch](https://github.com/csd81/K-MeansClusteringfromScratch)            |  |
 | [LastPencil-Java](https://github.com/csd81/LastPencil-Java)                                      |  |
 | [LastPencil-Python](https://github.com/csd81/LastPencil-Python)                                  |  |
