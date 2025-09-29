@@ -5,7 +5,7 @@ Here is a list of my projects on Hyperskill.org
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
 | [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)          |      |
-| [Algorithms-IMDB](https://github.com/csd81/Algorithms-IMDB)                                      |        |
+| [Algorithms-IMDB](https://github.com/csd81/Algorithms-IMDB)                                      |    ✅    |
 | [AmazingNumbers](https://github.com/csd81/AmazingNumbers)                                        |        |
 | [AmazingPrices](https://github.com/csd81/AmazingPrices)                                          |        |
 | [AntiFraudSystem](https://github.com/csd81/AntiFraudSystem)                                    |        |
