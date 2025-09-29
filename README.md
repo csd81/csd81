@@ -44,6 +44,7 @@ Here is a list of my projects on Hyperskill.org
 | [Contacts-Kotlin](https://github.com/csd81/Contacts-Kotlin)                                      |        |
 | [ConvoyShippingCompany](https://github.com/csd81/ConvoyShippingCompany)                          |        |
 | [CornerShopCalculator](https://github.com/csd81/CornerShopCalculator)                            |        |
+| [CrackingTheCaesarCipher](https://github.com/csd81/CrackingTheCaesarCipher)                            |   ✅      |
 | [CrosswordScrabble](https://github.com/csd81/CrosswordScrabble)                                  |        |
 | [CurrencyConverter](https://github.com/csd81/CurrencyConverter)                                  |        |
 | [CustomerFeedbackService](https://github.com/csd81/CustomerFeedbackService)                      |        |
