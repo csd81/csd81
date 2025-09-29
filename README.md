@@ -144,7 +144,7 @@ Here is a list of my projects on Hyperskill.org
 | [SimpleSearchEngine-Java](https://github.com/csd81/SimpleSearchEngine-Java)                      |        |
 | [SimpleSearchEngine-Kotlin](https://github.com/csd81/SimpleSearchEngine-Kotlin)                  |        |
 | [SimpleStopwatch](https://github.com/csd81/SimpleStopwatch)                                      |        |
-| [SimpleTicTacToe-Java](https://github.com/csd81/SimpleTicTacToe-Java)                        |        |
+| [SimpleTicTacToe-Java](https://github.com/csd81/SimpleTicTacToe-Java)                        |    +    |
 | [SimpleTicTacToe-Kotlin](https://github.com/csd81/SimpleTicTacToe-Kotlin)                    |   ✅     |
 | [SimpleTicTacToe-Python](https://github.com/csd81/SimpleTicTacToe-Python)                    |        |
 | [SiteforMarathon](https://github.com/csd81/SiteforMarathon)                                      |        |
