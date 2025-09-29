@@ -61,7 +61,7 @@ Here is a list of my projects on Hyperskill.org
 | [Dominoes](https://github.com/csd81/Dominoes)                                                    |        |
 | [Duskers](https://github.com/csd81/Duskers)                                                      |        |
 | [EasyRiderBusCompany](https://github.com/csd81/EasyRiderBusCompany)                              |        |
-| [EncryptionDecryption-Java](https://github.com/csd81/EncryptionDecryption-Java)                  |        |
+| [EncryptionDecryption-Java](https://github.com/csd81/EncryptionDecryption-Java)                  |  +      |
 | [EncryptionDecryption-Kotlin](https://github.com/csd81/EncryptionDecryption-Kotlin)              |   ✅   |
 | [Enigma](https://github.com/csd81/Enigma)                                                        |        |
 | [FileJanitor](https://github.com/csd81/FileJanitor)                                              |        |
