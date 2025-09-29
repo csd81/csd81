@@ -2,6 +2,8 @@
 
 Here is a list of my projects on Hyperskill.org
 
+[CoffeeMachine-Scala](https://github.com/csd81/CoffeeMachine-Scala)  
+
 | Project                                                                                          | Status |
 | ------------------------------------------------------------------------------------------------ | :----: |
 | [AI-PoweredCameraEffects-Junie](https://github.com/csd81/AI-PoweredCameraEffects-Junie)          |      |
