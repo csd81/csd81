@@ -152,7 +152,7 @@ Here is a list of my projects on Hyperskill.org
 | [SmartCalculator-Python](https://github.com/csd81/SmartCalculator-Python)                        |        |
 | [SmartCalculator-Java](https://github.com/csd81/SmartCalculator-Java)                            |        |
 | [SmartCalendar](https://github.com/csd81/SmartCalendar)                                          |        |
-| [SortingTool-Java](https://github.com/csd81/SortingTool-Java)                                    |        |
+| [SortingTool-Java](https://github.com/csd81/SortingTool-Java)                                    |     +   |
 | [SortingTool-Python](https://github.com/csd81/SortingTool-Python)                                |        |
 | [SpinTheBottle](https://github.com/csd81/SpinTheBottle)                                          |        |
 | [SQLiteViewer](https://github.com/csd81/SQLiteViewer)                                            |        |
