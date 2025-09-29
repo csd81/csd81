@@ -39,7 +39,7 @@ Here is a list of my projects on Hyperskill.org
 | [CoffeeMachineSimulator-Java](https://github.com/csd81/CoffeeMachineSimulator-Java)              |        |
 | [ColorGuessGame](https://github.com/csd81/ColorGuessGame)                                        |        |
 | [ConnectFour](https://github.com/csd81/ConnectFour)                                              |    ✅    |
-| [ConsoleBot-CPP](https://github.com/csd81/ConsoleBot-CPP)                                        |        |
+| [ConsoleBot-CPP](https://github.com/csd81/ConsoleBot-CPP)                                        |    ✅    |
 | [Contacts-Java](https://github.com/csd81/Contacts-Java)                                          |        |
 | [Contacts-Kotlin](https://github.com/csd81/Contacts-Kotlin)                                      |        |
 | [ConvoyShippingCompany](https://github.com/csd81/ConvoyShippingCompany)                          |        |
@@ -124,7 +124,7 @@ Here is a list of my projects on Hyperskill.org
 | [RegexEngine-Python](https://github.com/csd81/RegexEngine-Python)                                |        |
 | [ReminderApplication](https://github.com/csd81/ReminderApplication)                              |        |
 | [Remo](https://github.com/csd81/Remo)                                                            |        |
-| [RockPaperScissors-CPP](https://github.com/csd81/RockPaperScissors-CPP)                      |        |
+| [RockPaperScissors-CPP](https://github.com/csd81/RockPaperScissors-CPP)                      |   ✅     |
 | [RockPaperScissors-Java](https://github.com/csd81/RockPaperScissors-Java)                    |        |
 | [RockPaperScissors-Python](https://github.com/csd81/RockPaperScissors-Python)                |        |
 | [SalaryPrediction](https://github.com/csd81/SalaryPrediction)                                    |        |
