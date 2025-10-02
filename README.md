@@ -80,7 +80,6 @@
 | [RockPaperScissors-Python](https://github.com/csd81/RockPaperScissors-Python)                |  |
 | [SalaryPrediction](https://github.com/csd81/SalaryPrediction)                                    |  |
 | [SharpShooter](https://github.com/csd81/SharpShooter)                                            |  |
-| [SimpleBankingSystem-Java](https://github.com/csd81/SimpleBankingSystem-Java)                    |  |
 | [SimpleBankingSystem-Python](https://github.com/csd81/SimpleBankingSystem-Python)                |  |
 | [SimpleCalculator](https://github.com/csd81/SimpleCalculator)                                    |  |
 | [SimpleChatBot-JavaScript](https://github.com/csd81/SimpleChatBot-JavaScript)                    |  |
